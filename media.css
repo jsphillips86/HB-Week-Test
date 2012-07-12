@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media all and (min-width:600px) {
+	.left-side {
+		float:left;
+		width:45%;
+		text-align:left;
+	}
+	.right-side {
+		float:right;
+		width:45%; 	
+	}
+}

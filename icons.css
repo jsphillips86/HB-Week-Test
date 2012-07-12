@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ui-icon-how {
+	background:url(icons/about.png) no-repeat rgba(0,0,0,0.4) !important;
+}
